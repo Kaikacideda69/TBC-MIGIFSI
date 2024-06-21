@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TBC-Day05/1.0.0": {
+        "runtime": {
+          "TBC-Day05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TBC-Day05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
