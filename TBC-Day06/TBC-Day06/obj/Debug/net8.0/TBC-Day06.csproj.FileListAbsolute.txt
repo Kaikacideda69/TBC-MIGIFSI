@@ -1,0 +1,14 @@
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\bin\Debug\net8.0\TBC-Day06.exe
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\bin\Debug\net8.0\TBC-Day06.deps.json
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\bin\Debug\net8.0\TBC-Day06.runtimeconfig.json
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\bin\Debug\net8.0\TBC-Day06.dll
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\bin\Debug\net8.0\TBC-Day06.pdb
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\obj\Debug\net8.0\TBC-Day06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\obj\Debug\net8.0\TBC-Day06.AssemblyInfoInputs.cache
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\obj\Debug\net8.0\TBC-Day06.AssemblyInfo.cs
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\obj\Debug\net8.0\TBC-Day06.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\obj\Debug\net8.0\TBC-Day06.dll
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\obj\Debug\net8.0\refint\TBC-Day06.dll
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\obj\Debug\net8.0\TBC-Day06.pdb
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\obj\Debug\net8.0\TBC-Day06.genruntimeconfig.cache
+C:\Users\Giorgi\source\repos\TBC-Day06\TBC-Day06\obj\Debug\net8.0\ref\TBC-Day06.dll
