@@ -1,0 +1,14 @@
+D:\TBC\TBC-Day08\TBC-Day08\bin\Debug\net8.0\TBC-Day08.exe
+D:\TBC\TBC-Day08\TBC-Day08\bin\Debug\net8.0\TBC-Day08.deps.json
+D:\TBC\TBC-Day08\TBC-Day08\bin\Debug\net8.0\TBC-Day08.runtimeconfig.json
+D:\TBC\TBC-Day08\TBC-Day08\bin\Debug\net8.0\TBC-Day08.dll
+D:\TBC\TBC-Day08\TBC-Day08\bin\Debug\net8.0\TBC-Day08.pdb
+D:\TBC\TBC-Day08\TBC-Day08\obj\Debug\net8.0\TBC-Day08.GeneratedMSBuildEditorConfig.editorconfig
+D:\TBC\TBC-Day08\TBC-Day08\obj\Debug\net8.0\TBC-Day08.AssemblyInfoInputs.cache
+D:\TBC\TBC-Day08\TBC-Day08\obj\Debug\net8.0\TBC-Day08.AssemblyInfo.cs
+D:\TBC\TBC-Day08\TBC-Day08\obj\Debug\net8.0\TBC-Day08.csproj.CoreCompileInputs.cache
+D:\TBC\TBC-Day08\TBC-Day08\obj\Debug\net8.0\TBC-Day08.dll
+D:\TBC\TBC-Day08\TBC-Day08\obj\Debug\net8.0\refint\TBC-Day08.dll
+D:\TBC\TBC-Day08\TBC-Day08\obj\Debug\net8.0\TBC-Day08.pdb
+D:\TBC\TBC-Day08\TBC-Day08\obj\Debug\net8.0\TBC-Day08.genruntimeconfig.cache
+D:\TBC\TBC-Day08\TBC-Day08\obj\Debug\net8.0\ref\TBC-Day08.dll
